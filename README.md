@@ -10,27 +10,15 @@
 ## 🧰 My Tech Stack
 
 <p align="center">
+<!-- Languages -->
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-## 📊 Skill Progress (Approximation)
-
-<img src="https://quickchart.io/chart?c={
-type:'pie',
-data:{
-labels:['HTML','CSS','PHP','MySQL'],
-datasets:[{
-data:[35,25,25,15],
-backgroundColor:['#FFB6C1','#87CEFA','#C3B1E1','#98FB98']
-}]
-},
-options:{plugins:{legend:{position:'bottom'}}}
-}" width="400"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 ---
 
